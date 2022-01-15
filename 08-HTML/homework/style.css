@@ -1,0 +1,51 @@
+body {
+    background-image: url(https://th.bing.com/th/id/OIP.2PsL9QVHDYgPKu_3XnNS3QHaE8?w=273&h=183&c=7&r=0&o=5&dpr=1.25&pid=1.7);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+h1 {
+    padding:10px;
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    color:yellowgreen;
+}
+h3 {
+    padding:10px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+img {
+    width:400px;
+}
+.divClass {
+    width:300px;
+    height:200px;
+    padding:10px;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+   
+}
+#thirdDiv{
+    height:600px;
+    width:500px;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    background-color:slategray;
+    margin:50px;
+    padding:50px;
+    border-width:5px; border-color:yellowgreen; border-style:solid;
+}
+#spanId {
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    font-size:18px;
+}
